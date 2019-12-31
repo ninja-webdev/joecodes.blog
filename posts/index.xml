@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on JoeCodes</title>
+    <link>https://joecodes.blog/posts/</link>
+    <description>Recent content in Posts on JoeCodes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/jpalala&#34;&gt;Joe Palala&lt;/a&gt; 2019</copyright>
+    <lastBuildDate>Mon, 30 Dec 2019 02:12:29 +0800</lastBuildDate>
+    
+	<atom:link href="https://joecodes.blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is programming easy</title>
+      <link>https://joecodes.blog/posts/is-programming-easy/</link>
+      <pubDate>Mon, 30 Dec 2019 02:12:29 +0800</pubDate>
+      
+      <guid>https://joecodes.blog/posts/is-programming-easy/</guid>
+      <description>Is programming easy? Yup. If you use frameworks, I think it is easy to come up with an API and then build the frontend using your favorite frontend javascript framework.
+For me, the most easy-to-understand framework for frontend is Angular.
+You need a framework Yes. My explanation is simple: Frameworks make projects more easier to build with in the immediate time-frame. As the project size goes larger, like you become a unicorn startup like what silicon valley raves about, my thinking goes you should have enough profits coming in that it&amp;rsquo;s worth it to invest in performance improvements.</description>
+    </item>
+    
+  </channel>
+</rss>
